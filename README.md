@@ -1,1 +1,1 @@
-# ML_mini_project
+# Mini Machine Learning Project: From Scratch
