@@ -78,7 +78,7 @@ Contributions are welcome! To contribute:
 5. Open a Pull Request
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Contact Information
 For any questions or suggestions, please contact:
